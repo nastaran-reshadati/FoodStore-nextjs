@@ -1,0 +1,12 @@
+
+
+.menu__sort{
+  border-bottom: 1px dotted rgb(112, 110, 110);
+  padding: 10px 0;
+  margin-top: 10px;
+}
+.listMenu{
+  list-style: circle;
+  font-size: 32px;
+  color: red;
+}
